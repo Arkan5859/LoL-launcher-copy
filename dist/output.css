@@ -718,10 +718,6 @@ video {
   padding-top: 1.75rem;
 }
 
-.pl-10 {
-  padding-left: 2.5rem;
-}
-
 .font-Poppins {
   font-family: "Poppins", serif;
 }
@@ -767,3 +763,4 @@ video {
 .hover\:fill-white:hover {
   fill: #fff;
 }
+
